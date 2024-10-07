@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/scientific-engineering-calculator/static/css/main.be67c3ac.css",
+    "main.js": "/scientific-engineering-calculator/static/js/main.99a805b9.js",
+    "index.html": "/scientific-engineering-calculator/index.html",
+    "main.be67c3ac.css.map": "/scientific-engineering-calculator/static/css/main.be67c3ac.css.map",
+    "main.99a805b9.js.map": "/scientific-engineering-calculator/static/js/main.99a805b9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be67c3ac.css",
+    "static/js/main.99a805b9.js"
+  ]
+}
