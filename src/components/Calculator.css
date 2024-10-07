@@ -1,0 +1,11 @@
+.calculator-container {
+    max-width: 400px;
+    margin: 20px;
+  }
+  
+  .buttons-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 10px;
+  }
+  
